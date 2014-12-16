@@ -1,6 +1,8 @@
 ##### FOIL
 Write a function called foil() which takes a parameter n and prints out the foiled version of (x+y)n as a string. For 
-exponents use the ^ symbol, so that you would print x2 as x^2. The coefficients are nchoose(n,k). For example, 
+exponents use the ^ symbol, so that you would print x2 as x^2. The coefficients are nchoose(n,k). 
+
+For example, 
 ```
 nchoose(3,0)=1
 nchoose(3,1)=3
